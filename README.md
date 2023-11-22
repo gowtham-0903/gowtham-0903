@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-Final year Student<br>Aspiring Data Analyst<br>UI/UX Designer 
+Pre-Final year Student<br> 
 
 
 ## 🌐 Socials:
