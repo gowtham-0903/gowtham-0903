@@ -11,7 +11,7 @@ With hands-on experience across the **entire SDLC**, I enjoy building efficient,
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtam-s/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gowtam-s](https://www.linkedin.com/in/gowtham-sureshkumar-b68b08379/)/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/gowtham-0903)
 
 📧 **Email:** gowthamsurig@gmail.com  
